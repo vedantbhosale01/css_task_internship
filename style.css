@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-image: url("templates/car.jpg"); */
+}
+body{
+  background-color: yellow;
+}
+h1{
+  text-align: center;
+  margin-top: 118px;
+}
+footer{
+  background-color: red;
+}
